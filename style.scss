@@ -1,0 +1,35 @@
+@import "./bs-override";
+
+h1 {
+  font-size: 350%;
+}
+.pHeader {
+  color: #bba7ff;
+}
+
+h2 {
+  margin: 0;
+}
+article {
+  background-color: #f5f4f8;
+}
+h3 {
+  padding-top: 15%;
+  margin-bottom: 5%;
+}
+.card {
+  margin-bottom: 5%;
+}
+footer {
+  background-color: #f5f4f8;
+}
+.footerUl {
+  display: inline;
+}
+.footerLi {
+  display: inline;
+}
+.bell {
+  background-color: #f5f4f8;
+  margin-right: 5px;
+}
